@@ -3,6 +3,7 @@ import { MockContacts } from "@/views"
 
 export default function Home() {
  return(
+    
   <Contacts  />
   // <MockContacts />
  )

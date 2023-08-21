@@ -3,3 +3,6 @@
 @tailwind utilities;
 
 /* styles.css or in your component's CSS module */
+.body{
+    background: #000;
+}
